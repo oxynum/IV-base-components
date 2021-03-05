@@ -1,0 +1,147 @@
+/*
+ * This file contains all the typographies name regarding the ImVitro app.
+ * The Font: Poppin has been taken on the Google Fonts platform and matches the .ttf format.
+
+ You can find every information on Figma: https://www.figma.com/file/XYwpvtDaTc3Dl5E1t4YetZ/V1-Imvitro?node-id=98%3A87
+*/
+
+/*
+*****************
+ VARIABLES IMPORTS
+*****************
+*/
+@import 'variables';
+
+/*
+*****************
+ FONT FACES IMPORTS
+*****************
+*/
+@font-face {
+  font-family: 'Poppins Medium';
+  src: url("~@/assets/fonts/Poppins/Poppins-Medium.ttf");
+}
+
+@font-face {
+  font-family: 'Poppins Regular';
+  src: url("~@/assets/fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+  font-family: 'Poppins Regular Italic';
+  src: url("~@/assets/fonts/Poppins/Poppins-Italic.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Poppins SemiBold';
+  src: url("~@/assets/fonts/Poppins/Poppins-SemiBold.ttf");
+}
+
+/*
+***********
+ TYPOGRAPHY RULES
+***********
+*/
+.big-title {
+  font-family: 'Poppins Medium';
+  font-size: 56px;
+  line-height: 84px;
+  color: $color-iv-font-primary;
+}
+
+.title-1 {
+  font-family: 'Poppins Medium';
+  font-size: 20px;
+  line-height: 30px;
+  color: $color-iv-font-primary;
+}
+
+.title-2 {
+  font-family: 'Poppins Medium';
+  font-size: 18px;
+  line-height: 28px;
+  color: $color-iv-font-primary;
+}
+
+.title-3 {
+  font-family: 'Poppins Medium';
+  font-size: 15px;
+  line-height: 23px;
+  color: $color-iv-font-primary;
+}
+
+.subtitle-1 {
+  font-family: 'Poppins Medium';
+  font-size: 14px;
+  line-height: $lineheight-iv-primary;
+  color: $color-iv-font-primary;
+}
+
+.subtitle-2 {
+  font-family: 'Poppins Medium';
+  font-size: $fontsize-iv-primary;
+  line-height: $lineheight-iv-primary;
+  color: $color-iv-font-third;
+}
+
+.body-1 {
+  font-family: 'Poppins Regular';
+  font-size: 12px;
+  line-height: $lineheight-iv-primary;
+  color: $color-iv-font-third;
+}
+
+.body-2 {
+  font-family: 'Poppins Regular';
+  font-size: $fontsize-iv-secondary;
+  line-height: $lineheight-iv-secondary;
+  color: $color-iv-font-third;
+}
+.small-text {
+  font-family: 'Poppins Medium';
+  font-size: $fontsize-iv-secondary;
+  line-height: $lineheight-iv-secondary;
+  color: $color-iv-font-primary;
+}
+
+.small-1 {
+  font-family: 'Poppins Medium';
+  font-size: $fontsize-iv-secondary;
+  line-height: $lineheight-iv-secondary;
+  color: $color-iv-font-third;
+}
+
+.small-2 {
+  font-family: 'Poppins Medium';
+  font-size: 11px;
+  line-height: $lineheight-iv-third;
+  color: $color-iv-font-third;
+}
+
+.small-3 {
+  font-family: 'Poppins Medium';
+  font-size: $fontsize-iv-third;
+  line-height: $lineheight-iv-third;
+  color: $color-iv-font-third;
+}
+
+.italic-1 {
+  font-family: 'Poppins Regular Italic' ;
+  font-size: $fontsize-iv-secondary;
+  line-height: $lineheight-iv-secondary;
+  color: $color-iv-font-third;
+}
+
+.italic-2 {
+  font-family: 'Poppins Regular Italic' ;
+  font-size: $fontsize-iv-third;
+  line-height: 14px;
+  color: $color-iv-font-third;
+}
+
+.text-button {
+  font-family: 'Poppins SemiBold';
+  font-size: $fontsize-iv-primary;
+  line-height: $lineheight-iv-primary;
+}

@@ -1,0 +1,81 @@
+/*
+* Colors of the system available inside the Figma on this page
+* https://www.figma.com/file/XYwpvtDaTc3Dl5E1t4YetZ/V1-Imvitro?node-id=95%3A2
+*/
+
+/*
+********
+ BASIC COLORS
+********
+*/
+
+$color-iv-white: #ffffff;
+
+$color-iv-black: #333333;
+$color-iv-black-table: #323C47;
+
+$color-iv-gray: #90A0B7;
+$color-iv-gray-darker: #707683;
+$color-iv-gray-minus: #90A0B7;
+$color-iv-gray-minus-1: #D3D8DD;
+$color-iv-gray-minus-2: #99A6B6;
+$color-iv-gray-light: #C2CFE0;
+$color-iv-gray-light-2: #EBEFF2;
+
+$color-iv-purple: #564BA4;
+$color-iv-purple-light: #F3F3FF;
+$color-iv-purple-light-2: #EBE8FF;
+$color-iv-purple-satured: #5C557E;
+$color-iv-purple-satured-2: #B5B2D6;
+
+$color-iv-blue: #1DA3EF;
+$color-iv-blue-dark: #334D6E;
+
+$color-iv-green: #2ED474;
+
+$color-iv-orange: #FFB946;
+$color-iv-orange-dark: #F7685B;
+
+/*
+*******
+ FONT
+*******
+*/
+$color-iv-font-primary: $color-iv-purple-satured;
+$color-iv-font-secondary: $color-iv-gray-minus-2;
+$color-iv-font-third: $color-iv-gray-light;
+
+
+/*
+*********
+ USABLE COLORS
+*********
+*/
+$color-iv-primary: $color-iv-purple;
+$color-iv-light-primary: #A497FF;
+$color-iv-secondary: #FD0054;
+$color-iv-light-secondary: #FFA0C0;
+
+$colors-iv-success: $color-iv-green;
+$colors-iv-warning: $color-iv-orange;
+$colors-iv-error: $color-iv-orange-dark;
+$colors-iv-basic: $color-iv-blue;
+
+/*
+*********
+ FONT SIZE
+*********
+*/
+$fontsize-iv-primary: 13px;
+$fontsize-iv-secondary: 12px;
+$fontsize-iv-third: 10px;
+
+
+/*
+*********
+ LINE HEIGHT
+*********
+*/
+$lineheight-iv-primary: 20px;
+$lineheight-iv-secondary: 18px;
+$lineheight-iv-third: 16px;

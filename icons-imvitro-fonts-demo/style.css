@@ -1,0 +1,198 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?s0woes');
+  src:  url('fonts/icomoon.eot?s0woes#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?s0woes') format('truetype'),
+    url('fonts/icomoon.woff?s0woes') format('woff'),
+    url('fonts/icomoon.svg?s0woes#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iv-icon-close-pop-up:before {
+  content: "\e900";
+  color: #c2cfe0;
+}
+.iv-icon-cancel-loading-video-hover:before {
+  content: "\e901";
+  color: #a497ff;
+}
+.iv-icon-cancel-loading-video:before {
+  content: "\e902";
+  color: #564ba4;
+}
+.iv-icon-back:before {
+  content: "\e903";
+  color: #564ba4;
+}
+.iv-icon-export-file-hover:before {
+  content: "\e904";
+  color: #a497ff;
+}
+.iv-icon-export-file:before {
+  content: "\e905";
+  color: #564ba4;
+}
+.iv-icon-add-hover:before {
+  content: "\e906";
+  color: #a497ff;
+}
+.iv-icon-add:before {
+  content: "\e907";
+  color: #564ba4;
+}
+.iv-icon-toggle-active .path1:before {
+  content: "\e908";
+  color: rgb(86, 75, 164);
+}
+.iv-icon-toggle-active .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.iv-icon-toggle-hover .path1:before {
+  content: "\e90a";
+  color: rgb(164, 151, 255);
+}
+.iv-icon-toggle-hover .path2:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.iv-icon-toggle .path1:before {
+  content: "\e90c";
+  color: rgb(194, 207, 224);
+}
+.iv-icon-toggle .path2:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.iv-icon-information-hover:before {
+  content: "\e90e";
+  color: #a497ff;
+}
+.iv-icon-information:before {
+  content: "\e90f";
+  color: #c2cfe0;
+}
+.iv-icon-close-eye:before {
+  content: "\e910";
+  color: #c2cfe0;
+}
+.iv-icon-eye:before {
+  content: "\e911";
+  color: #c2cfe0;
+}
+.iv-icon-edit-hover:before {
+  content: "\e912";
+  color: #a5a6f6;
+}
+.iv-icon-edit:before {
+  content: "\e913";
+  color: #c2cfe0;
+}
+.iv-icon-delete-hover:before {
+  content: "\e914";
+  color: #a497ff;
+}
+.iv-icon-delete:before {
+  content: "\e915";
+  color: #c2cfe0;
+}
+.iv-icon-alert-reverse:before {
+  content: "\e916";
+  color: #fff;
+}
+.iv-icon-alert:before {
+  content: "\e917";
+  color: #fd0054;
+}
+.iv-icon-accept-reverse:before {
+  content: "\e918";
+  color: #fff;
+}
+.iv-icon-accept:before {
+  content: "\e919";
+  color: #2ed47a;
+}
+.iv-icon-help-hover:before {
+  content: "\e91a";
+  color: #a497ff;
+}
+.iv-icon-help:before {
+  content: "\e91b";
+  color: #c2cfe0;
+}
+.iv-icon-language-hover:before {
+  content: "\e91c";
+  color: #a497ff;
+}
+.iv-icon-language:before {
+  content: "\e91d";
+  color: #c2cfe0;
+}
+.iv-icon-log-out-hover:before {
+  content: "\e91e";
+  color: #a497ff;
+}
+.iv-icon-log-out:before {
+  content: "\e91f";
+  color: #c2cfe0;
+}
+.iv-icon-model-performance-hover:before {
+  content: "\e920";
+  color: #a497ff;
+}
+.iv-icon-model-performance:before {
+  content: "\e921";
+  color: #c2cfe0;
+}
+.iv-icon-my-database-hover:before {
+  content: "\e922";
+  color: #a497ff;
+}
+.iv-icon-my-database:before {
+  content: "\e923";
+  color: #c2cfe0;
+}
+.iv-icon-icon-my-profile-hover:before {
+  content: "\e924";
+  color: #a497ff;
+}
+.iv-icon-my-profile:before {
+  content: "\e925";
+  color: #c2cfe0;
+}
+.iv-icon-new-egg-retrieval-hover:before {
+  content: "\e926";
+  color: #a497ff;
+}
+.iv-icon-new-egg-retrieval:before {
+  content: "\e927";
+  color: #c2cfe0;
+}
+.iv-icon-settings-hover:before {
+  content: "\e928";
+  color: #a497ff;
+}
+.iv-icon-settings:before {
+  content: "\e929";
+  color: #c2cfe0;
+}
